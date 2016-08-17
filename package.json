@@ -1,5 +1,5 @@
 {
-  "name": "@ta-interaktiv/parteien-ch",
+  "name": "ta-parteien-ch",
   "version": "1.0.0-rc",
   "description": "List of Swiss political parties and their associated colours.",
   "main": "parteien.json",
