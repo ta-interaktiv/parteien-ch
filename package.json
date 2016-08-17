@@ -1,6 +1,6 @@
 {
   "name": "ta-parteien-ch",
-  "version": "1.0.0-rc",
+  "version": "1.0.0",
   "description": "List of Swiss political parties and their associated colours.",
   "main": "parteien.json",
   "repository": "github:ta-interaktiv/parteien-ch",
