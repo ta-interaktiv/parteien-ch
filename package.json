@@ -1,0 +1,17 @@
+{
+  "name": "ta-parteien-ch",
+  "version": "1.0.0",
+  "description": "List of Swiss political parties and their associated colours.",
+  "main": "parteien.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "switzerland",
+    "politics",
+    "parties",
+    "colors"
+  ],
+  "author": "Kaspar Manz <kaspar.manz@tages-anzeiger.ch>",
+  "license": "ISC"
+}
